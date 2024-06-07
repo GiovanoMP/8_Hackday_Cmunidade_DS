@@ -1,4 +1,4 @@
-** Projeto de Previsão de Casos de Dengue
+* Projeto de Previsão de Casos de Dengue
 
 ## Descrição do Projeto
 
